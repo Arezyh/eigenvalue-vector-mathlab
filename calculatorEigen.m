@@ -1,6 +1,7 @@
 clc, close, clear;
 
 %% JUDUL PROGRAM
+%% Created by Akbar Setiyawan (Arezyhs)
 disp('===================================================')
 disp('     KALKULATOR EIGENVALUE DAN EIGENVEKTOR         ')
 disp('===================================================')
